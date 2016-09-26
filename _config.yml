@@ -34,11 +34,11 @@ index:
 
 disqus:
   name: playng
-  secret_key: XgpQF2I9KSgQJn3qa0bQx2KCxiHX8m7f9tAAKo7Ll3OhCFHIejdCI3KfexsxaFC0
+  public_key: 
 
 # share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+#bshare:
+#  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
 
 # google analytics
 ga:
