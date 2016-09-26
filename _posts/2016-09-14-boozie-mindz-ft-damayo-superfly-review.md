@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boozie Mindz ft Damayo - Superfly"
+title:  "(Review) Boozie Mindz ft Damayo - Superfly"
 desc: "我的第一篇jekyll博客"
 keywords: "boozie, damayo, superfly, review"
 date: 2016-09-14

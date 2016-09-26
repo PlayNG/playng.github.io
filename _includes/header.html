@@ -42,6 +42,13 @@
                         {% endif %}
                             <a class="page-scroll" href="/reviews/">{{ site.index.reviews }}</a></li>
 
+                        {% if page.title == site.index.lyrics %}
+                            <li class="active">
+                        {% else %}
+                            <li>
+                        {% endif %}
+                            <a class="page-scroll" href="/lyrics/">{{ site.index.lyrics }}</a></li>
+                            
                         {% if page.title == site.index.info %}
                             <li class="active">
                         {% else %}
