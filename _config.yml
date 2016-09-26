@@ -33,8 +33,8 @@ index:
   lyrics: 'Lyrics'
 
 disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+  name: playng
+  secret_key: XgpQF2I9KSgQJn3qa0bQx2KCxiHX8m7f9tAAKo7Ll3OhCFHIejdCI3KfexsxaFC0
 
 # share
 bshare:
