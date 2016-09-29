@@ -20,12 +20,11 @@ layout: default
 						<h5>
                             by
 							{% if page.author %}
-							{{ page.author }}
+								{{ page.author }}
 							{% else %}
-							{{ site.author.name }}
+								{{ site.author.name }}
 							{% endif %}
-							
-                        </h5>
+						</h5>
                     </div>
                     	{{ content }}
                     <hr>
@@ -50,11 +49,6 @@ layout: default
                     <br>
                     <div class="row">
                         <div class="col-lg-12">
-                            <!-- share -->
-                            {% if site.bshare %}
-                                {% include share.html %}
-                            {% endif %}
-                            <br>
                             <!-- comment -->
                             {% include comments.html %}
                         </div>
