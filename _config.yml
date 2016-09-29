@@ -6,10 +6,9 @@ description: "PlayNG's blog, Follow up with us in our hilarious but yet serious 
 keywords: "PlayNG. PlayNG Online"
 baseurl: "/"
 url: "http://www.playngonline.com"
-# url: "http://127.0.0.1:4000"
 
 # blog img path
-#img_path: 'http://www.playng.github.io/static/img/blog'
+img_path: 'http://www.playng.github.io/static/img/blog'
 
 # author
 author:
@@ -32,9 +31,9 @@ index:
   gists: 'Gists'
   lyrics: 'Lyrics'
 
-disqus:
-  name: playng
-  public_key: 
+#disqus:
+#  name: playng
+#  public_key: 
 
 # share
 #bshare:
@@ -42,7 +41,8 @@ disqus:
 
 # google analytics
 ga:
-  id: UA-73784599-1
+  id: UA-76069714-1
+  
 
 # Build settings
 encoding: "utf-8"
