@@ -31,9 +31,9 @@ index:
   gists: 'Gists'
   lyrics: 'Lyrics'
 
-#disqus:
-#  name: playng
-#  public_key: 
+disqus:
+  name: playng
+  public_key: 
 
 # share
 #bshare:
